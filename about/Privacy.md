@@ -37,7 +37,3 @@ The following information is logged :
 Donder Helper's slash commands are available to you via. Discord. Donder Helper may be able to access a baseline set of data provided by Discord.
 
 While Donder Helper does not make full use of this information, and/or log all of this available information, you may read further on what Discord allows Donder Helper and all other Discord bots to track here: https://support.discord.com/hc/en-us/articles/7933951485975-Visibility-of-Bot-Data-Access
-
-While Railway does not explicitly state that this information is used for any other purpose, you may review their Terms of Service or Privacy Policy here:
-- Terms of Service: https://railway.com/legal/terms
-- Privacy Policy: https://railway.com/legal/privacy
